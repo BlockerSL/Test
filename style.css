@@ -22,6 +22,7 @@ font-family: Arial, Helvetica, sans-serif;
     #5A73FF;
   border-radius: 30px;
   position: absolute;
+  top:10px;
   left: 10%;
   display: flex;
   align-items: center;
@@ -59,7 +60,7 @@ font-family: Arial, Helvetica, sans-serif;
   align-items: center;
   justify-content: center;
   font-size: 15px;
-  margin-top:40%;
+  margin-top:45%;
 background-color:none;
 border-radius: 30px;
 }
@@ -154,7 +155,7 @@ margin-top: 10px;
 
 .fotter{
   position: absolute;
-  top: 500px;
+  top: 550px;
   left:10%;
   width:80%;
   height: 70px;
